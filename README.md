@@ -8,7 +8,7 @@ Sitio web responsive de una verdulería online, con ofertas semanales, zonas de 
 - Página de inicio con banner y botón de acceso a la tienda.
 - Sección "¿Quiénes somos?".
 - Ofertas semanales con precios.
-- Zonas de envío (Merlo, Morón, Padua, Castelar, Libertad y Pontevedra).
+- Zonas de envío: Merlo, Morón, Padua, Castelar, Libertad y Pontevedra.
 - Registro al club para recibir ofertas y un cupón de descuento.
 - Diseño adaptable a celular, tablet y computadora.
 
@@ -21,10 +21,8 @@ HTML · CSS · JavaScript
 
 ## Qué aprendí
 - Maquetar una página completa con HTML y CSS.
-- Aplicar diseño responsive.
-- [Agregar algo que hayas aprendido con JavaScript en este proyecto].
+- Aplicar diseño responsive para distintos tamaños de pantalla.
+- Organizar el contenido en secciones con una navegación clara.
 
 ## Autor
-Martín Leiva 
-· [LinkedIn](https://www.linkedin.com/in/martin-leiva02) 
-· [GitHub](https://github.com/martinleiva02)
+Martín Leiva · [LinkedIn](https://www.linkedin.com/in/martin-leiva02) · [GitHub](https://github.com/martinleiva02)
